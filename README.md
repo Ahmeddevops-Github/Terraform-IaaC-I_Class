@@ -1,2 +1,3 @@
 # Terraform-Iaac
-Terraform-Iaac-August-2020
+Terraform-IaaC-August-2020
+Islam's Terraform Class
